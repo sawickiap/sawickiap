@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Adam Sawicki, a graphics software engineer from Poland. Here you will find source code of my personal projects, but it's nothing very large or useful really. I recommend to rather check:
+Hi there! 👋 I'm Adam Sawicki, a graphics software engineer from Poland. Here you will find source code of my personal projects. I recommend to also check:
 
 - **[My homepage/blog - asawicki.info](https://asawicki.info)**
 - **[My Twitter account - @Reg__](https://twitter.com/Reg__)**
